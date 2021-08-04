@@ -7,6 +7,7 @@
 |Corteva/Granular|up to $20|no| no | yes |
 |Indigo Ag|up to $30|no| no | yes |
 |Nutrien|?|?| ? | ? |
+|Nori|market price per tonne|depends on what data supplier has| yes (process-based modeling)| no|
 
 
 # Accepted Ecosystem Services
@@ -18,6 +19,7 @@
 |Corteva/Granular|yes|?| ? | ? |
 |Indigo Ag|yes|yes| no | no |
 |Nutrien|yes|no | yes | no |
+|Nori|yes| yes | ? | yes |
 
 # Accepted Practices
 
@@ -28,6 +30,7 @@
 |Corteva/Granular| yes | yes | no | no |
 |Indigo Ag| yes | yes | yes | yes |
 |Nutrien|yes| yes | ? | ? |
+|Nori|yes| yes | yes | ? |
 
 [1] non-"additive" or lacking "additionality" - _Markets define “additionality” to
 determine which actions or interventions contribute to improved environmental outcomes and
