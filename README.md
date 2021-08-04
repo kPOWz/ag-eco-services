@@ -8,6 +8,8 @@
 |Indigo Ag|up to $30|no| no | yes |
 |Nutrien|?|?| ? | ? |
 |Nori|market price per tonne|depends on what data supplier has| yes (process-based modeling)| no|
+|Regen Registry| ?|?| ? | ? |
+|Single.Earth |?|?| ? | ? |
 
 
 # Accepted Ecosystem Services
@@ -31,6 +33,20 @@
 |Indigo Ag| yes | yes | yes | yes |
 |Nutrien|yes| yes | ? | ? |
 |Nori|yes| yes | yes | ? |
+
+# Crypto Carbon (CO2e / GHG)
+
+|Payer |Payout range (per acre, per year) | Possilbe payout for early adopters?[1] | practice based | outcomes based |
+--- | --- | --- | --- | --- 
+|Nori|market price per tonne|depends on what data supplier has| yes (process-based modeling)| no|
+|Regen Registry| ?|?| ? | ? |
+|Single.Earth |?|?| ? | ? |
+|AirCarbon |?|?| ? | ? |
+|CarbonX |?|?| ? | ? |
+|Veridium |?|?| ? | ? |
+|UPCO2|?|?| ? | ? |
+|MCO2|?|?| ? | ? |
+
 
 [1] non-"additive" or lacking "additionality" - _Markets define “additionality” to
 determine which actions or interventions contribute to improved environmental outcomes and
