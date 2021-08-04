@@ -36,7 +36,7 @@
 
 # Crypto Carbon (CO2e / GHG)
 
-|Payer |Payout range (per acre, per year) | Possilbe payout for early adopters?[1] | practice based | outcomes based |
+|Company | Coin/Token | Possilbe payout for early adopters?[1] | practice based | outcomes based |
 --- | --- | --- | --- | --- 
 |Nori|market price per tonne|depends on what data supplier has| yes (process-based modeling)| no|
 |Regen Registry| ?|?| ? | ? |
@@ -46,6 +46,7 @@
 |Veridium |?|?| ? | ? |
 |UPCO2|?|?| ? | ? |
 |MCO2|?|?| ? | ? |
+|pachama|?|?| ? | ? |
 
 
 [1] non-"additive" or lacking "additionality" - _Markets define “additionality” to
